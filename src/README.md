@@ -1,0 +1,1 @@
+# Some initial tests in the rust language
